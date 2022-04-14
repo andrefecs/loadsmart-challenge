@@ -1,0 +1,6 @@
+version: 2
+sources: 
+  - name: stg_reporting
+    schema: reporting
+    tables:
+      - name: main_view

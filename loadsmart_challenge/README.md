@@ -57,7 +57,7 @@ SELECT  *
 ### Python 3.9 required! Download [here](https://www.python.org/downloads/release/python-390/).
 
 
-- Open Windows Powershell terminal on the repository folder
+- Open Windows Powershell terminal on the repository folder (you can find equivalent terminals in *Resources* section)
 - Install dbt with bigquery package:
 
 ```
@@ -101,7 +101,7 @@ dbt run
 ### Note: since we're working with just one data source, we don't need to add new tables in dbt. This is why there's just one source and one view published using dbt:
 
 *\models\staging\source.yml*
-```SQL
+```yml
 version: 2
 sources: 
   - name: stg_reporting

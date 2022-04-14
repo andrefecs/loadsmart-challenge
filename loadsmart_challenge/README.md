@@ -142,6 +142,6 @@ SELECT * FROM `loadsmart-challenge-347019.dbt_loadsmart_challenge_reporting.stg_
 
 
 
-# Resources:
+# Resources
 - Learn more about dbt installation guidelines [here](https://docs.getdbt.com/dbt-cli/install/pip).
 - Check out [how to set up a Service Account](https://cloud.google.com/docs/authentication/getting-started#windows) for Google Cloud credentials setup.

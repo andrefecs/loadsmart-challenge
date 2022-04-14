@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loadsmart-challenge-347019",
+  "private_key_id": "df7f1b5b516971960ad45c9d28985898ea1ef4bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDvDaEEZN48QlXm\nQione79nRTnv1gwKcBKN7OkQLNpzaA4uizSG44xMV6nyxJ9xvIqaqATxBzkYI6NH\nyKJucfcFim41kBplc4Oi04IHC7wX0oHPGmgk6Ft28mzpmxklPbOqgSMjLNBKEH+E\nmPkU17KK3gJZARoD0UvR75rAv9yKxYUBux1/e+C2RAUIo5N81MXdQX2b2SBtQxYv\nAw2r27Cn/7bkgSRsHhAjVPeQL2zAC+g3XK+s50K7S6uoxhQnT93UHR07+Sf9W/7C\n73kP2Wxn20PENl07dJ5m2ZQCiLXkvLWlKTx7KWHukRn1MRvrQJJuouTW73GQth0I\nUhAgMw7fAgMBAAECggEACCf9wBp+NP9Pr8zWBxbu1h4MUPV/35SRmGea8nYEld7N\nU0BlR6F1oHuNxHWoUQRZIEwAGECiJ9UZRCDHMCto/YgWXqHARYk5HFTgRv4VRyTM\nljTGlPfKNJE+RiZZsz0VYYl9a0iAR7jSSnIGnTmp4t7IvC0h2t59YCx1EtTHid/1\nIBsxHxHPCDknuN+QE/u72Hzj9XL92yujXyzo0jQOemjox3Fb6oHWfdr/Uzwhsr1X\nNQaZ25hIxcgwobnu9Xp5N2KlkpUKvZUIIcRoS32nz6ENjVYefJEEdMns7ljgeGeF\nkCCU6kpln/czMxKLs2BjP9tH7MfFuVZQfCRs9I6KTQKBgQD4I7r0+hvDbFgttMd/\n494ya+z9pPa4eu0e5kCslpHapn1ocvNvGoHewVMMcsH4cVNfTPHFaSY93uDLPx8a\ntoI1oMgboQf/OQ3O6jBZqvWPNi4/HHRE7CsWcXuHsmy7cTmS9h3s8nVq0pEFRcpU\nGNM0UqgrpPvRfTKuI9641U4UEwKBgQD2oDa2Mh6cSzITQ48yxkkVgbi9dR+R7fMR\n1I7xgHkz5nINtQyTs2EzWUAciWUAE1Fp1PkfUAORNIEqLwWVI3l8diVrqukOXPhD\n6luK1kPGhir3HJAhgTbAovMeCFOb7MgjknvU7Uv+dSDaLTy3dYlHHw6CC+31KMxt\n20aXUbz7hQKBgAzoRuRRUjpjG18dRTdY0gkLZiN3fkHwWv89eOXBW0rlWCajvBfu\naAz/P2OpYH+c3XpalUTwiEW1nznTSbno/nLtrxsI0FKtVBOMSQGRC/7sEZHE2CNx\nqXgcZRGU7WT+qcEEPmBB6GurElIU5EZlmC7jkc3bYiHugkFeqkoxBkOzAoGAIu/n\nUEAhXfq5CUmUy5iTWdyakxw4cK/Is0ntRgDxKo0GszJmqbXLmz6VenVsPWp/KgLl\nl636E2PguF0Y6VuxJhSGkI4RndtFwDk+5pgb2c+/3mnJcTWg0AFFd4eucHRGleN2\nb19+WHm3QbEO3N5lqBGaOIoAF67D5vwdL+qAXxECgYAgz1LF0q4Owl1VzA+xCujA\nLNvjbIvTelHLAiMfZ9zHxdNrlKaS4oPpgkO2uUFl22XS+MCRjjZs117mvFkUSH4Q\nm5KRb1qsCvzjEDxFt2C6q1L36vHw8zen5z6809jqzjwY1luilH/L5eHszjvVAb6G\nizX3faLTa0L/Kc+0Ch5jow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-loadsmart@loadsmart-challenge-347019.iam.gserviceaccount.com",
+  "client_id": "108350671956850476245",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-loadsmart%40loadsmart-challenge-347019.iam.gserviceaccount.com"
+}

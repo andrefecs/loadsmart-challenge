@@ -3,7 +3,7 @@ Welcome to my Analytics Engineer Challenge repository for the Data Enablement Te
 Follow the steps below to reproduce it on your machine:
 
 
-# 1. Creating the data model on the database
+# Creating the data model on the database
 ### Note: if you really want to reproduce this section, please be aware you need to create a services account on Google Cloud Platform giving dbt full access to the project on Google Cloud. Also, the dashboard data connection should be changed to your Google Big Query account.
 You can find more information [here](https://cloud.google.com/docs/authentication/getting-started#windows).
 
@@ -53,7 +53,7 @@ SELECT  *
 ```
 
 
-# 2. Loading the data with dbt (data build tool)
+# Loading the data with dbt (data build tool)
 ### Python 3.9 required! Download [here](https://www.python.org/downloads/release/python-390/).
 
 
@@ -119,7 +119,7 @@ select * from source
 ```
 
 
-# 3. Resulting dashboard/data set
+# Resulting dashboard/data set
 
 - The resulting dashboard was built using Google Data Studio, a powefull tool that is easy to connect with Google Big Query using a simple query.
   - You can find the resulting dashboard [here](https://datastudio.google.com/reporting/07c7fd16-a75a-4b26-8c37-e8b211343e21)!
